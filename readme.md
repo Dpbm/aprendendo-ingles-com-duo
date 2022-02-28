@@ -4,7 +4,7 @@
 
 ## neste repositório deixarei todas as minhas anotações durante minha jornada com o Duolingo (português para inglês americano)
 
-para você acompanhar minhas anotações veja a pasta `dias` e cada .md representa a anotação daquele dia do título do arquivo
+para você acompanhar minhas anotações veja a pasta `notes` e cada .md representa a anotação daquele dia do título do arquivo
 
 <br />
 <br />
