@@ -154,3 +154,5 @@ cython_debug/
 
 # vscode
 .vscode
+qiskit-vscode-log.out
+
