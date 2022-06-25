@@ -6,13 +6,17 @@
 
 }
 
+section{
+    height: calc(100vh - 54px);
+    width: 100vw;
+}
+
 .first-section-presentation{
     display: flex;
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    height: calc(100vh - 54px);
-    width: 100vw;
+   
 }
 
 .first-section-presentation .first-section-introduction{
@@ -53,6 +57,10 @@ header{
     display: flex;
     justify-content: flex-end;
     align-items: center;
+    position: sticky;
+    top: 0;
+    background-color: white;
+    z-index: 10000;
 }
 
 header img{
@@ -82,4 +90,24 @@ header img:hover{
         transform: translateY(50%);
         opacity: 0;
     }
+}
+
+
+.second-section-presentation{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.second-section-presentation ul{
+    margin: 10px;
+}
+
+.second-section-presentation ul li{
+    margin: 10px;
+}
+
+.second-section-presentation ul li:hover{
+    cursor: pointer;
+    opacity: 0.7;
 }
