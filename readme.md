@@ -4,7 +4,9 @@
 
 ## neste repositório deixarei todas as minhas anotações durante minha jornada com o Duolingo (português para inglês americano)
 
-para você acompanhar minhas anotações veja a pasta `notes` e cada .md representa a anotação daquele dia do título do arquivo
+para você acompanhar minhas anotações veja a pasta `notes` e cada .md e .html representa a anotação daquele dia do título do arquivo
+
+para ver de uma forma mais simples clique [aqui](https://dpbm.github.io/aprendendo-ingles-com-duo/notes/)
 
 <br />
 <br />
@@ -20,7 +22,6 @@ meu objetivo no começo desse projeto era simplesmente aprender inglês, no enta
 Caso você tenha interesse em ter o arquivo .docx que usava, o mesmo está disponível em [/docs/](/docs/readme.md)
 
 <br />
-
 
 ## Código
 
